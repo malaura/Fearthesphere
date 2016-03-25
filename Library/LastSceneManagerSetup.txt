@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Coiiins.unity
+  isLoaded: 1
+  isActive: 1
